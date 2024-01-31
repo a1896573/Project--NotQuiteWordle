@@ -1,7 +1,7 @@
 # Project--NotQuiteWordls
-This is a personal project I attempted in my free time
+This is a personal project I attempted in my free time. I do not intend to infringe on any copyrighted material.
 
-It's a word guessing game, where the user chooses the length of the word.
+This is a word guessing game, where the user chooses the length of the word.
 Bold- correct letter, correct place
 Italic- correct letter, wrong place
 
