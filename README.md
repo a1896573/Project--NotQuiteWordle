@@ -1,4 +1,4 @@
-# Project--NotQuiteWordls
+# Project--NotQuiteWordle
 This is a personal project I attempted in my free time. I do not intend to infringe on any copyrighted material.
 
 This is a word guessing game, where the user chooses the length of the word.
